@@ -1,1 +1,1 @@
-# KennaWiki
+# Kenna Project Documentation
